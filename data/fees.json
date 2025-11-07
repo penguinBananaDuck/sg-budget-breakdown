@@ -1,0 +1,593 @@
+[
+    {
+        "name": "Student Services",
+        "children": [
+            {
+                "name": "AMP",
+                "value": 53638
+            },
+            {
+                "name": "Assessment",
+                "value": 153084
+            },
+            {
+                "name": "Athletic Supplement",
+                "value": 550154
+            },
+            {
+                "name": "Callier Center",
+                "value": 10420
+            },
+            {
+                "name": "Campus Events",
+                "value": 171683
+            },
+            {
+                "name": "Center for Students in Recovery",
+                "value": 164647
+            },
+            {
+                "name": "Child Care",
+                "value": 33650
+            },
+            {
+                "name": "Dean of Students",
+                "value": 980181
+            },
+            {
+                "name": "Debate",
+                "value": 109000
+            },
+            {
+                "name": "Drumline",
+                "value": 6639
+            },
+            {
+                "name": "Esports",
+                "value": 40156
+            },
+            {
+                "name": "Fraternity & Sorority Life",
+                "value": 316492
+            },
+            {
+                "name": "Gender Center",
+                "value": 170811
+            },
+            {
+                "name": "Graduate Student Assembly",
+                "value": 55500
+            },
+            {
+                "name": "Intercultural Programs",
+                "value": 382653
+            },
+            {
+                "name": "Legal Mediation",
+                "value": 33011
+            },
+            {
+                "name": "Marketing Administration",
+                "value": 258806
+            },
+            {
+                "name": "Mercury",
+                "value": 65416
+            },
+            {
+                "name": "Meteor Theatre",
+                "value": 73752
+            },
+            {
+                "name": "Military and Veteran Center",
+                "value": 276944
+            },
+            {
+                "name": "Mock Trial",
+                "value": 87844
+            },
+            {
+                "name": "Model UN",
+                "value": 80114
+            },
+            {
+                "name": "Moot Court",
+                "value": 49458
+            },
+            {
+                "name": "Multicultural Center",
+                "value": 735076
+            },
+            {
+                "name": "Pep Band",
+                "value": 28699
+            },
+            {
+                "name": "Radio UTD",
+                "value": 55280
+            },
+            {
+                "name": "Reunion",
+                "value": 19608
+            },
+            {
+                "name": "Spirit Program",
+                "value": 179518
+            },
+            {
+                "name": "Student AcessAbility",
+                "value": 4500
+            },
+            {
+                "name": "Student Government",
+                "value": 300576
+            },
+            {
+                "name": "Student Health Center",
+                "value": 1867511
+            },
+            {
+                "name": "Student Leadership Programs",
+                "value": 127834
+            },
+            {
+                "name": "Student Media Administration",
+                "value": 268582
+            },
+            {
+                "name": "Student Organizations (SOC)",
+                "value": 417987
+            },
+            {
+                "name": "Student Programs Administration",
+                "value": 151214
+            },
+            {
+                "name": "Student Transition Programs",
+                "value": 631286
+            },
+            {
+                "name": "Student Volunteerism",
+                "value": 398030
+            },
+            {
+                "name": "Student Wellness Center",
+                "value": 380839
+            },
+            {
+                "name": "SUAAB",
+                "value": 517276
+            },
+            {
+                "name": "University Career Center",
+                "value": 1608699
+            },
+            {
+                "name": "University Recreation",
+                "value": 478304
+            },
+            {
+                "name": "UTD TV",
+                "value": 47685
+            },
+            {
+                "name": "VPSA Office",
+                "value": 450845
+            },
+            {
+                "name": "Year Experience Program",
+                "value": 103230
+            }
+        ]
+    },
+    {
+        "name": "Student Union",
+        "children": [
+            {
+                "name": "SU Administration",
+                "value": 1241949
+            },
+            {
+                "name": "Building Operations",
+                "value": 564495
+            }
+        ]
+    },
+    {
+        "name": "SSB",
+        "children": [
+            {
+                "name": "Maintenance",
+                "value": 583218
+            },
+            {
+                "name": "Utilities",
+                "value": 180696
+            },
+            {
+                "name": "Building Debt Service",
+                "value": 2352378
+            }
+        ]
+    },
+    {
+        "name": "Recreation",
+        "children": [
+            {
+                "name": "Activity Center",
+                "value": 1638351
+            },
+            {
+                "name": "Utilities & Debt Service",
+                "value": 1480401
+            },
+            {
+                "name": "Field Maintenance",
+                "value": 395453
+            }
+        ]
+    },
+    {
+        "name": "Medical",
+        "children": [
+            {
+                "name": "Student Counseling Center",
+                "value": 2241413
+            },
+            {
+                "name": "Reserve",
+                "value": 427024
+            }
+        ]
+    },
+    {
+        "name": "Athletics",
+        "children": [
+            {
+                "name": "Athletic Operations",
+                "value": 2381338
+            },
+            {
+                "name": "Athletic Training Room",
+                "value": 39000
+            },
+            {
+                "name": "Baseball",
+                "value": 95274
+            },
+            {
+                "name": "Basketball (Men's)",
+                "value": 79071
+            },
+            {
+                "name": "Basketball (Women's)",
+                "value": 80759
+            },
+            {
+                "name": "Cross Country",
+                "value": 32340
+            },
+            {
+                "name": "Golf",
+                "value": 82310
+            },
+            {
+                "name": "Marketing",
+                "value": 40000
+            },
+            {
+                "name": "Soccer (Men's)",
+                "value": 67993
+            },
+            {
+                "name": "Soccer (Women's)",
+                "value": 68143
+            },
+            {
+                "name": "Softball ",
+                "value": 73730
+            },
+            {
+                "name": "Strength and Conditioning ",
+                "value": 48940
+            },
+            {
+                "name": "Tennis",
+                "value": 47220
+            },
+            {
+                "name": "Track & Field",
+                "value": 36340
+            },
+            {
+                "name": "Volleyball",
+                "value": 63470
+            }
+        ]
+    },
+    {
+        "name": "IT",
+        "children": [
+            {
+                "name": "Media Services",
+                "value": 2586308 
+            },
+            {
+                "name": "Testing Center",
+                "value": 207306
+            },
+            {
+                "name": "Management Admin Staff",
+                "value": 1285232
+            },
+            {
+                "name": "FMS Finance Salary",
+                "value": 602346
+            },
+            {
+                "name": "Academic Support",
+                "value": 4241491
+            },
+            {
+                "name": "Institutional Support",
+                "value": 7113105
+            },
+            {
+                "name": "IT for Operations",
+                "value": 8597039
+            },
+            {
+                "name": "OIT Infrastructure",
+                "value": 636798
+            },
+            {
+                "name": "Info Security",
+                "value": 1264987
+            },
+            {
+                "name": "Reserve",
+                "value": 462972
+            }
+        ]
+    },
+    {
+        "name": "Advising",
+        "children": [
+            {
+                "name": "Central UG Advising",
+                "value": 1082614 
+            },
+            {
+                "name": "Health Professional",
+                "value": 501328 
+            },
+            {
+                "name": "Legal Professional",
+                "value": 286885 
+            },
+            {
+                "name": "Gateways to Excellence in Math and Science (GEMS)",
+                "value": 1619423 
+            },
+            {
+                "name": "Dean of UG Education Operating",
+                "value": 336828 
+            },
+            {
+                "name": "A&H",
+                "value": 196530 
+            },
+            {
+                "name": "NSM",
+                "value": 794835 
+            },
+            {
+                "name": "EPPS",
+                "value": 551503 
+            },
+            {
+                "name": "JSOM",
+                "value": 2117186 
+            },
+            {
+                "name": "BBS Salaries",
+                "value": 704263 
+            },
+            {
+                "name": "BBS Operating",
+                "value": 40000 
+            },
+            {
+                "name": "GS",
+                "value": 426462 
+            },
+            {
+                "name": "ECS",
+                "value": 1517113 
+            },
+            {
+                "name": "ATEC UG",
+                "value": 520587 
+            },
+            {
+                "name": "ATEC Graduate",
+                "value": 177820 
+            },
+            {
+                "name": "Learning Resources",
+                "value": 224927 
+            },
+            {
+                "name": "Graduate Advising Dean",
+                "value": 335209 
+            },
+            {
+                "name": "Science Education",
+                "value": 68825 
+            },
+            {
+                "name": "MSE Graduate",
+                "value": 69608 
+            },
+            {
+                "name": "ECE Graduate",
+                "value": 195111 
+            },
+            {
+                "name": "BE Graduate",
+                "value": 69114 
+            },
+            {
+                "name": "ME Graduate",
+                "value": 129862 
+            },
+            {
+                "name": "CS Graduate",
+                "value": 392473 
+            },
+            {
+                "name": "SE Graduate",
+                "value": 67575 
+            },
+            {
+                "name": "Merit Pool",
+                "value": 583467 
+            },
+            {
+                "name": "Reserve",
+                "value": 2050249 
+            }]
+    },
+    {
+        "name": "Infrastructure",
+        "children": [
+            {
+                "name": "A&H",
+                "value": 110000 
+            },
+            {
+                "name": "NSM",
+                "value": 277062 
+            },
+            {
+                "name": "Chemistry",
+                "value": 100000 
+            },
+            {
+                "name": "Geoscience",
+                "value": 75000 
+            },
+            {
+                "name": "Math",
+                "value": 50000 
+            },
+            {
+                "name": "TA Math & Science",
+                "value": 1442000 
+            },
+            {
+                "name": "Biology",
+                "value": 100000 
+            },
+            {
+                "name": "Physics",
+                "value": 75000 
+            },
+            {
+                "name": "NSM Science Education",
+                "value": 50000 
+            },
+            {
+                "name": "EPPS",
+                "value": 301789 
+            },
+            {
+                "name": "JSOM",
+                "value": 890883 
+            },
+            {
+                "name": "BBS",
+                "value": 531630 
+            },
+            {
+                "name": "NSC",
+                "value": 17000 
+            },
+            {
+                "name": "PSY",
+                "value": 6000
+            },
+            {
+                "name": "SLH",
+                "value": 20000 
+            },
+            {
+                "name": "GS",
+                "value": 30000 
+            },
+            {
+                "name": "ECS DOE",
+                "value": 50000 
+            },
+            {
+                "name": "ECS Lab",
+                "value": 5000 
+            },
+            {
+                "name": "ATEC",
+                "value": 441527 
+            },
+            {
+                "name": "Information Security",
+                "value": 534335 
+            },
+            {
+                "name": "Maintenance",
+                "value": 579301 
+            },
+            {
+                "name": "Merit Pool",
+                "value": 85592 
+            },
+            {
+                "name": "Reserve",
+                "value": 7868637 
+            }]
+    },
+    {
+        "name": "Library",
+        "children": [
+            {
+                "name": "Aquisitions Central",
+                "value": 5296623 
+            },
+            {
+                "name": "Salaries",
+                "value": 3956716 
+            },
+            {
+                "name": "Operating",
+                "value": 340952 
+            },
+            {
+                "name": "Reserve",
+                "value": 339707 
+            }]
+    },
+    {
+        "name": "Transporation",
+        "children": [
+            {
+                "name": "Service",
+                "value": 915110 
+            },
+            {
+                "name": "Reserve",
+                "value": 235038 
+            }]
+    },
+    {
+        "name": "Student Business Services",
+        "value": 13401749
+    }
+]

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Home - UTD Budget Breakdown</title>
+    <link rel="icon" href="/sg-budget-breakdown/assets/img/sg-logo.jpg"/>
+    <meta property="og:site_name" content="UTD Student Government" />
+    <meta property="og:title" content="University Budget Breakdown" />
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="article" />
+    <meta property="article:modified_time" content="article" />
+    <meta property="article:author" content="UT Dallas Student Government" />
+
+    <meta
+      property="og:description"
+      content="Learn how your tuition funds university departments and the services  that you use, and see clear, accessible information on the university's finances."
+    />
+    <meta
+      property="og:url"
+      content="https://utdal.github.io/sg-budget-breakdown"
+    />
+    <meta property="og:image" content="/sg-budget-breakdown/assets/img/sg-logo.jpg" />
+
+    <link rel="stylesheet" href="/sg-budget-breakdown/assets/css/main.css" />
+
+    
+    <script src="/sg-budget-breakdown/assets/js/main.js"></script>
+</head>
+
+  <body class="bg-slate-100">
+    
+    <nav class="sticky top-0 flex flex-wrap bg-slate-700 text-white">
+    <div class="w-full md:flex-1 md:w-auto flex justify-between">
+        <a href="/sg-budget-breakdown/" class="flex-1 p-4 hover:bg-slate-900 focus:bg-slate-900 font-bold text-lg transition">
+        UTD Budget Breakdown
+        </a>
+        <div class="p-2">
+            <button type="button" class="block md:hidden p-2 rounded-lg hover:bg-slate-900 focus:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-gray-200" id="navbar-open" aria-controls="navbar-open" aria-expanded="false" onClick="open_nav()">
+                <span class="sr-only">Open menu</span>
+                <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+            </button>
+            <button type="button" class="hidden p-2 rounded-lg hover:bg-slate-900 focus:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-gray-200 text-[2rem]" id="navbar-close" aria-controls="navbar-close" aria-expanded="false" onClick="close_nav()">
+                <span class="sr-only">Close menu</span>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6" aria-hidden="false">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div class="hidden md:block p-4 pt-0 md:p-4" id="navbar-nav">
+        <ul class="flex flex-col md:flex-row">
+        <li>
+            <a href="/sg-budget-breakdown/findings" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            Findings
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/faq" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            FAQ
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/search" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            Search
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/team" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            People
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/test" class=" m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition">
+            Test
+            </a>
+        </li>
+        </ul>
+    </div>
+</nav>
+
+    <section id="jumbotron" class="bg-[#e87500] text-white">
+  <div class="max-w-4xl mx-auto p-8 lg:py-16">
+    <div class="text-center text-4xl lg:text-left lg:text-6xl font-bold">
+      UT Dallas Budget Breakdown
+    </div>
+    <div class="mt-4 text-center text-2xl lg:text-left lg:text-4xl">
+      A
+      <a href="https://sg.utdallas.edu" class="underline hover:text-blue-500 focus:text-blue-500 transition">
+        Student Government</a> project
+    </div>
+  </div>
+</section>
+<section id="about">
+  <div class="mx-auto max-w-4xl p-4 lg:p-8">
+    <h1 class="mt-4 text-4xl font-bold">About</h1>
+    <p class="mt-4 text-lg">
+      This site is a product of a Student-Led University Budget Breakdown
+      Taskforce formed by the UT Dallas Student Government. This group was
+      formed to provide accessible and digestible information about the
+      University&apos;s Budget and usage of student fees. You will find
+      several visualizations that were generated using the University&apos;s
+      Budget for the fiscal year ending August 30, 2023.
+    </p>
+    <h1 class="mt-4 text-4xl font-bold">Motivation</h1>
+    <p class="mt-4 text-lg">
+      The
+      <a
+        class="text-blue-600 hover:underline transition"
+        href="https://www.reddit.com/r/utdallas/collection/d83a1f8c-fd7c-45f4-a7b4-32bbd2a4bc0e"
+        >student discourse</a
+      >
+      occurring during the Fall 2022 Student Union Building Fee and
+      Intercollegiate Athletics Fee Referendums revealed that students are
+      both unaware and misinformed about the nature of university finances.
+      The UT Dallas Student Government felt an obligation to inform itself
+      and the broader student body. This task force seeks to create greater
+      transparency for students and set a precedent for the Student
+      Government as a source of information that better informs students.
+      The process of reviewing, summarizing, and visualizing university
+      financial data has allowed us to answer many questions and explore new
+      topics that we wish to explore in the future.
+    </p>
+    <h3 class="mt-2 text-2xl">
+      For more details, please read our full report 
+      <a class="text-blue-600 hover:underline transition" href="/sg-budget-breakdown/assets/SUBB_Task_Force_Report_Spring_2023.pdf">here</a>.
+    </h3>
+  </div>
+</section>
+
+
+    <footer class="py-8 px-4 lg:px-8 bg-secondary text-white">
+    <div class="max-w-6xl mx-auto space-y-8 lg:grid lg:grid-cols-4 lg:space-y-0">
+      <div class="lg:col-span-2">
+        <div class="text-xl font-medium">A project by the UT Dallas Student Government</div>
+        <div class="text-2xl font-semibold"></div>
+        <div>
+          Student Union 2nd Floor, <a class="underline" href="https://map.concept3d.com/?id=1772#!m/545136?ce/52325?ct/42147?mc/32.986385,-96.74868?z/19?lvl/2">SU 2.401</a>
+          <div>
+            Monday-Friday, 8:30am - 5:00pm
+          </div>
+          <div>
+            972-883-2284
+          </div>
+          <a class="underline" href="mailto:sg@utdallas.edu?subject=UT Dallas Budget Breakdown">
+            sg@utdallas.edu
+          </a>
+        </div>
+      </div>
+      <div>
+        <div class="text-xl font-medium">University Links</div>
+        <ul>
+          <li class="pt-1 text-lg">
+            <a class="underline" href="https://bursar.utdallas.edu/">
+              Bursar Office
+            </a>
+          </li>
+          <li class="pt-1 text-lg">
+            <a class="underline" href="https://finance.utdallas.edu/">
+              Office of Budget and Finance
+            </a>
+          </li>
+        </div>
+      <div>
+        <div class="text-xl font-medium">Other Useful Links</div>
+        <ul>
+          <li class="pt-1 text-lg">
+            See our website at
+            <a class="underline" href="https://sg.utdallas.edu">
+              sg.utdallas.edu
+            </a>
+          </li>
+          <li class="pt-1 text-lg">
+            See the project on
+            <a class="underline" href="https://github.com/utdal/sg-budget-breakdown">
+              GitHub
+            </a>
+          </li>
+          <li class="pt-1 text-lg">
+            Connect with us on
+            <a class="underline" href="https://instagram.com/utdsg">
+              Instagram
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+</footer>
+
+    
+  </body>
+</html>

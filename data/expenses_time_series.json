@@ -1,0 +1,233 @@
+[
+	{
+		"Year": 2015,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 163402521.4
+			},
+			{
+				"name": "Research",
+				"value": 80687600.46
+			},
+			{
+				"name": "Academic Support",
+				"value": 60201859.56
+			},
+			{
+				"name": "Student Services",
+				"value": 15478422.18
+			},
+			{
+				"name": "Institutional Support",
+				"value": 48792572.21
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 26881173.3
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 35624620.08
+			}
+		]
+	},
+	{
+		"Year": 2016,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 176131897.4
+			},
+			{
+				"name": "Research",
+				"value": 84807112.56
+			},
+			{
+				"name": "Academic Support",
+				"value": 68023602.09
+			},
+			{
+				"name": "Student Services",
+				"value": 19381105.4
+			},
+			{
+				"name": "Institutional Support",
+				"value": 41599228.38
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 30706417.29
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 40848855.01
+			}
+		]
+	},
+	{
+		"Year": 2017,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 192808403.8
+			},
+			{
+				"name": "Research",
+				"value": 90243541.98
+			},
+			{
+				"name": "Academic Support",
+				"value": 67232483.9
+			},
+			{
+				"name": "Student Services",
+				"value": 20497693.49
+			},
+			{
+				"name": "Institutional Support",
+				"value": 41193293.03
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 36605647.44
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 45501167.68
+			}
+		]
+	},
+	{
+		"Year": 2018,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 197171847.7
+			},
+			{
+				"name": "Research",
+				"value": 94549599.04
+			},
+			{
+				"name": "Academic Support",
+				"value": 64232144.98
+			},
+			{
+				"name": "Student Services",
+				"value": 19353129.57
+			},
+			{
+				"name": "Institutional Support",
+				"value": 45008992.23
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 43905800.84
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 50600216.64
+			}
+		]
+	},
+	{
+		"Year": 2019,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 198889758.1
+			},
+			{
+				"name": "Research",
+				"value": 99779383.33
+			},
+			{
+				"name": "Academic Support",
+				"value": 63485370.56
+			},
+			{
+				"name": "Student Services",
+				"value": 19146219.64
+			},
+			{
+				"name": "Institutional Support",
+				"value": 48073537.41
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 42531644.06
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 60918531.69
+			}
+		]
+	},
+	{
+		"Year": 2020,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 204346862.8
+			},
+			{
+				"name": "Research",
+				"value": 104835790.9
+			},
+			{
+				"name": "Academic Support",
+				"value": 67917676.37
+			},
+			{
+				"name": "Student Services",
+				"value": 20559066.07
+			},
+			{
+				"name": "Institutional Support",
+				"value": 45966040.67
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 52063825.51
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 46625973.18
+			}
+		]
+	},
+	{
+		"Year": 2021,
+		"Children": [
+			{
+				"name": "Instruction",
+				"value": 197677095
+			},
+			{
+				"name": "Research",
+				"value": 98702141.41
+			},
+			{
+				"name": "Academic Support",
+				"value": 63009598.62
+			},
+			{
+				"name": "Student Services",
+				"value": 17966832.89
+			},
+			{
+				"name": "Institutional Support",
+				"value": 34647796.59
+			},
+			{
+				"name": "Scholarships and Fellowships",
+				"value": 60963339.47
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 39253056.7
+			}
+		]
+	}
+]

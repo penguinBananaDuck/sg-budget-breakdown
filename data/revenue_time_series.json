@@ -1,0 +1,177 @@
+[
+	{
+		"Year": 2015,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 349357672.3
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 56705571.56
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 25255722.82
+			},
+			{
+				"name": "State Appropriations",
+				"value": 101213450.7
+			},
+			{
+				"name": "Investment Income",
+				"value": 24829074.3
+			}
+		]
+	},
+	{
+		"Year": 2016,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 375761496.4
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 60501502.1
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 29489161.11
+			},
+			{
+				"name": "State Appropriations",
+				"value": 104346589.5
+			},
+			{
+				"name": "Investment Income",
+				"value": 34229857.39
+			}
+		]
+	},
+	{
+		"Year": 2017,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 409595923.1
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 60328636.85
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 33852349.77
+			},
+			{
+				"name": "State Appropriations",
+				"value": 106110919.1
+			},
+			{
+				"name": "Investment Income",
+				"value": 32628251.9
+			}
+		]
+	},
+	{
+		"Year": 2018,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 423588621
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 66132725.68
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 35320539.06
+			},
+			{
+				"name": "State Appropriations",
+				"value": 108844759.6
+			},
+			{
+				"name": "Investment Income",
+				"value": 32448011.51
+			}
+		]
+	},
+	{
+		"Year": 2019,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 415793803.8
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 77325712.45
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 62449552.6
+			},
+			{
+				"name": "State Appropriations",
+				"value": 108550781.4
+			},
+			{
+				"name": "Investment Income",
+				"value": 37192760.77
+			}
+		]
+	},
+	{
+		"Year": 2020,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 456886411
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 85597190.23
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 39988790.2
+			},
+			{
+				"name": "State Appropriations",
+				"value": 119379785.9
+			},
+			{
+				"name": "Investment Income",
+				"value": 42989047.6
+			}
+		]
+	},
+	{
+		"Year": 2021,
+		"Children": [
+			{
+				"name": "Student Tuition and Fees",
+				"value": 439331178.2
+			},
+			{
+				"name": "Sponsored Programs",
+				"value": 86085534.47
+			},
+			{
+				"name": "Auxiliary Enterprises",
+				"value": 28944491.21
+			},
+			{
+				"name": "State Appropriations",
+				"value": 109811580.5
+			},
+			{
+				"name": "Investment Income",
+				"value": 39576094.66
+			}
+		]
+	}
+]

@@ -1,0 +1,63 @@
+[
+    {
+      "from": "Food Service Revenue",
+      "to": "Dining",
+      "value": 1062566,
+      "sub": []
+    },
+    {
+        "from": "Vending Revenue",
+        "to": "Dining",
+        "value": 114600,
+        "sub": []
+    },
+    {
+        "from": "Student Union Fee",
+        "to": "Dining",
+        "value": 3800509,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Student Union Operations",
+        "value": 564495,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Student Union Rental",
+        "value": 100000,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Student Union Administration",
+        "value": 1222243,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Catering Events",
+        "value": 25000,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Vending Expenses",
+        "value": 18000,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Food Service Expenses",
+        "value": 1090435,
+        "sub": []
+    },
+    {
+        "from": "Dining",
+        "to": "Dining Hall Debt",
+        "value": 1165854,
+        "sub": []
+    }
+  ]
+  

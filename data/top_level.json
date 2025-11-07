@@ -1,0 +1,320 @@
+[
+  {
+    "from": "AUF/Approp. Transfers Received",
+    "to": "Educational and General",
+    "value": 6379791,
+    "sub": []
+  },
+  {
+    "from": "State Appropriations",
+    "to": "Educational and General",
+    "value": 129486370,
+    "sub": []
+  },
+  {
+    "from": "Tuition and Fees",
+    "to": "Educational and General",
+    "value": 67861826,
+    "sub": []
+  },
+  {
+    "from": "Tuition and Fees",
+    "to": "Designated",
+    "value": 412021339,
+    "sub": []
+  },
+  {
+    "from": "Tuition and Fees",
+    "to": "Auxiliary",
+    "value": 32568558,
+    "sub": []
+  },
+  {
+    "from": "Federal Sponsored Programs",
+    "to": "Designated",
+    "value": 18517092,
+    "sub": []
+  },
+  {
+    "from": "Federal Sponsored Programs",
+    "to": "Restricted",
+    "value": 80369506,
+    "sub": []
+  },
+  {
+    "from": "Other Sponsored Programs",
+    "to": "Educational and General",
+    "value": 16458054,
+    "sub": []
+  },
+  {
+    "from": "Other Sponsored Programs",
+    "to": "Restricted",
+    "value": 14863600,
+    "sub": []
+  },
+  {
+    "from": "Other Sponsored Programs",
+    "to": "Designated",
+    "value": 13503425,
+    "sub": []
+  },
+  {
+    "from": "Sales/Services of Edu. Activities",
+    "to": "Educational and General",
+    "value": 8081998,
+    "sub": []
+  },
+  {
+    "from": "Sales/Services of Edu. Activities",
+    "to": "Designated",
+    "value": 28193185,
+    "sub": []
+  },
+  {
+    "from": "Sales/Services of Edu. Activities",
+    "to": "Restricted",
+    "value": 923000,
+    "sub": []
+  },
+  {
+    "from": "Auxiliary Enterprise Revenue",
+    "to": "Auxiliary",
+    "value": 51523512,
+    "sub": []
+  },
+  {
+    "from": "Other Operating Revenues",
+    "to": "Designated",
+    "value": 7461361,
+    "sub": []
+  },
+  {
+    "from": "Other Operating Revenues",
+    "to": "Restricted",
+    "value": 1751000,
+    "sub": []
+  },
+  {
+    "from": "Gifts for Operations",
+    "to": "Designated",
+    "value": 3000,
+    "sub": []
+  },
+  {
+    "from": "Gifts for Operations",
+    "to": "Restricted",
+    "value": 12770000,
+    "sub": []
+  },
+  {
+    "from": "Net Investment Income",
+    "to": "Educational and General",
+    "value": 100000,
+    "sub": []
+  },
+  {
+    "from": "Net Investment Income",
+    "to": "Designated",
+    "value": 23615381,
+    "sub": []
+  },
+  {
+    "from": "Net Investment Income",
+    "to": "Restricted",
+    "value": 21632757,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Instruction",
+    "value": 128617222,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Instruction",
+    "value": 117520436,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Instruction",
+    "value": 1526635,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Academic Support",
+    "value": 21110503,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Academic Support",
+    "value": 66035930,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Academic Support",
+    "value": 5425446,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Research",
+    "value": 14746822,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Research",
+    "value": 53499676,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Research",
+    "value": 76539661,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Public Service",
+    "value": 4262128,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Public Service",
+    "value": 3427575,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Public Service",
+    "value": 2954151,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Institutional Support",
+    "value": 19055992,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Institutional Support",
+    "value": 31288006,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Institutional Support",
+    "value": 3231736,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Student Services",
+    "value": 297290,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Student Services",
+    "value": 22802879,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Student Services",
+    "value": 590077,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Operation & Maintenance",
+    "value": 17943234,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Operation & Maintenance",
+    "value": 39817738,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Operation & Maintenance",
+    "value": 1255039,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Scholarships/Fellowships",
+    "value": 17099546,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Scholarships/Fellowships",
+    "value": 124761905,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Scholarships/Fellowships",
+    "value": 39831329,
+    "sub": []
+  },
+  {
+    "from": "Auxiliary",
+    "to": "Aux. Enterprise Expenses",
+    "value": 48275378,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Debt",
+    "value": 67864459,
+    "sub": []
+  },
+  {
+    "from": "Auxiliary",
+    "to": "Debt",
+    "value": 24423200,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Debt",
+    "value": 160089,
+    "sub": []
+  },
+  {
+    "from": "Educational and General",
+    "to": "Depreciation & Amortiz.",
+    "value": 20713151.49,
+    "sub": []
+  },
+  {
+    "from": "Designated",
+    "to": "Depreciation & Amortiz.",
+    "value": 44814998.4,
+    "sub": []
+  },
+  {
+    "from": "Auxiliary",
+    "to": "Depreciation & Amortiz.",
+    "value": 4378612.8,
+    "sub": []
+  },
+  {
+    "from": "Restricted",
+    "to": "Depreciation & Amortiz.",
+    "value": 18295230.32,
+    "sub": []
+  }
+]

@@ -1,0 +1,123 @@
+[
+    {
+      "from": "Athletic Fee",
+      "to": "Athletics",
+      "value": 2850503,
+      "sub": []
+    },
+    {
+        "from": "Athletic Revenues",
+        "to": "Athletics",
+        "value": 82127,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Athletics Operations",
+        "value": 2201705,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Baseball/Softball",
+        "value": 169004,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Basketball",
+        "value": 159830,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Cross Country",
+        "value": 32340,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Track & Field",
+        "value": 36340,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Soccer",
+        "value": 136136,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Golf",
+        "value": 82310,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Volleyball",
+        "value": 63470,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Tennis",
+        "value": 47220,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Marketing",
+        "value": 40000,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Athletic Training",
+        "value": 39000,
+        "sub": []
+    },
+    {
+        "from": "Athletics",
+        "to": "Strength & Conditioning",
+        "value": 48940,
+        "sub": []
+    },
+    {
+        "from": "Student Services Fee",
+        "to": "Athletics",
+        "value": 523300,
+        "sub": []
+    },
+    {
+        "from": "Student Services Fee",
+        "to": "Recreation",
+        "value": 460698,
+        "sub": []
+    },
+    {
+        "from": "Recreation",
+        "to": "Field Maintenance",
+        "value": 380551,
+        "sub": []
+    },
+    {
+        "from": "Recreation Facility Fee",
+        "to": "Recreation",
+        "value": 4117377,
+        "sub": []
+    },
+    {
+        "from": "Activity Center Revenue",
+        "to": "Recreation",
+        "value": 100000,
+        "sub": []
+    },
+    {
+        "from": "Recreation",
+        "to": "Activity Center",
+        "value": 3095261,
+        "sub": []
+    }
+]
+  

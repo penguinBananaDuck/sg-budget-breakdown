@@ -1,0 +1,45 @@
+[
+    {
+      "from": "Transportation Fee",
+      "to": "Parking & Transportation",
+      "value": 1150148,
+      "sub": []
+    },
+    {
+        "from": "Parking & Traffic Revenue",
+        "to": "Parking & Transportation",
+        "value": 5459911,
+        "sub": []
+    },
+    {
+        "from": "Parking & Transportation",
+        "to": "Salaries",
+        "value": 641064,
+        "sub": []
+    },
+    {
+        "from": "Parking & Transportation",
+        "to": "Lot Maintenance",
+        "value": 500114,
+        "sub": []
+    },
+    {
+        "from": "Parking & Transportation",
+        "to": "Transportation Service",
+        "value": 915110,
+        "sub": []
+    },
+    {
+        "from": "Parking & Transportation",
+        "to": "Parking Service",
+        "value": 1419264,
+        "sub": []
+    },
+    {
+        "from": "Parking & Transportation",
+        "to": "Debt",
+        "value": 2777718,
+        "sub": []
+    }
+  ]
+  

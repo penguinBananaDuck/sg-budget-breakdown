@@ -1,0 +1,234 @@
+[
+    {
+        "category": "JSOM",
+        "value": 67769456,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 3653721
+            },
+            {
+                "category": "Undergraduate advising",
+                "value": 2117186
+            },
+            {
+                "category": "Dean's Excel Scholars",
+                "value": 2100000
+            },
+            {
+                "category": "Research",
+                "value": 2523329
+            },
+            {
+                "category": "Teaching and research assistants",
+                "value": 6323404
+            },
+            {
+                "category": "Salaries, wages & salary reserves",
+                "value": 49303800
+            }
+        ]
+    },
+    {
+        "category": "EPPS",
+        "value": 14124201,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 1159631
+            },
+            {
+                "category": "Undergraduate advising",
+                "value": 551503
+            },
+            {
+                "category": "Research support",
+                "value": 948690
+            },
+            {
+                "category": "Teaching and research assistants",
+                "value": 2071735
+            },
+            {
+                "category": "Salaries, wages & salary reserves",
+                "value": 9330849
+            }
+        ]
+    },
+    {
+        "category": "A&H",
+        "value": 12472283,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 393119
+            },
+            {
+                "category": "Dean's office operating",
+                "value": 223580
+            },
+            {
+                "category": "Undergraduate advising",
+                "value": 196530
+            },
+            {
+                "category": "Teaching and research assistants",
+                "value": 2508065
+            },
+            {
+                "category": "Salaries, wages & salary reserves",
+                "value": 9195598
+            }
+        ]
+    },
+    {
+        "category": "ATEC",
+        "value": 9448448,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 660093
+            },
+            {
+                "category": "Teaching assistants",
+                "value": 567175
+            },
+            {
+                "category": "Administrative and operating",
+                "value": 592133
+            },
+            {
+                "category": "Advising",
+                "value": 698407
+            },
+            {
+                "category": "Undergraduate support",
+                "value": 934221
+            },
+            {
+                "category": "Salaries, wages & salary reserves",
+                "value": 5996419
+            }
+        ]
+    },
+    {
+        "category": "NSM",
+        "value": 35223269,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 3843435
+            },
+            {
+                "category": "Research",
+                "value": 1505637
+            },
+            {
+                "category": "Dean's office operating",
+                "value": 1612865
+            },
+            {
+                "category": "Undergraduate advising",
+                "value": 794835
+            },
+            {
+                "category": "Teaching and research assistants",
+                "value": 7346087
+            },
+            {
+                "category": "Salaries, wages & salary reserves",
+                "value": 20526965
+            }
+        ]
+    },
+    {
+        "category": "ECS",
+        "value": 64307036,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 5844047
+            },
+            {
+                "category": "Dean's office",
+                "value": 3713071
+            },
+            {
+                "category": "Undergraduate advising",
+                "value": 1517113
+            },
+            {
+                "category": "Graduate advising",
+                "value": 923743
+            },
+            {
+                "category": "Research",
+                "value": 1110049
+            },
+            {
+                "category": "Teaching and research assistants",
+                "value": 15097940
+            },
+            {
+                "category": "Salaries, wages & salary reserves",
+                "value": 36101073
+            }
+        ]
+    },
+    {
+        "category": "BBS",
+        "value": 18132384,
+        "breakdown": [
+            {
+                "category": "Other",
+                "value": 2708185
+            },
+            {
+                "category": "Advising",
+                "value": 744263
+            },
+            {
+                "category": "Research",
+                "value": 1040339
+            },
+            {
+                "category": "Teaching and research assistants",
+                "value": 4012876
+            },
+            {
+                "category": "Salaries, wage & salary reserves",
+                "value": 9626721
+            }
+        ]
+    },
+    {
+        "category": "IS",
+        "value": 3860958,
+        "breakdown": [
+            {
+                "category": "Infrastructure",
+                "value": 30000
+            },
+            {
+                "category": "Dean's office operating",
+                "value": 501823
+            },
+            {
+                "category": "Academic Bridge Program",
+                "value": 700530
+            },
+            {
+                "category": "Teach Ed",
+                "value": 500898
+            },
+            {
+                "category": "Undergraduate advising",
+                "value": 426462
+            },
+            {
+                "category": "Salaries and wages",
+                "value": 1701245
+            }
+        ]
+    }
+]

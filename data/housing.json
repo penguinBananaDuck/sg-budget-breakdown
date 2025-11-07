@@ -1,0 +1,81 @@
+[
+    {
+      "from": "University Village",
+      "to": "University Housing",
+      "value": 19584678,
+      "sub": []
+    },
+    {
+        "from": "University Commons",
+        "to": "University Housing",
+        "value": 15918260,
+        "sub": []
+    },
+    {
+        "from": "Canyon Creek Heights",
+        "to": "University Housing",
+        "value": 5402951,
+        "sub": []
+    },
+    {
+        "from": "Housing Admin. Revenue",
+        "to": "University Housing",
+        "value": 349044,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "University Village Operations",
+        "value": 3755090,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "University Commons Operations",
+        "value": 887403,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "Canyon Creek Heights Operations",
+        "value": 336434,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "Housing Administration",
+        "value": 10236164,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "Debt",
+        "value": 17155941,
+        "sub": []
+    },
+    {
+        "from": "Conference Services",
+        "to": "University Housing",
+        "value": 1347591,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "Conference Services Costs",
+        "value": 307297,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "Resident Life Program",
+        "value": 2318215,
+        "sub": []
+    },
+    {
+        "from": "University Housing",
+        "to": "Living Learning Communities",
+        "value": 394917,
+        "sub": []
+    }
+  ]
+  

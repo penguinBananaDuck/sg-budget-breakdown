@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+  
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>FAQ - UTD Budget Breakdown</title>
+    <link rel="icon" href="/sg-budget-breakdown/assets/img/sg-logo.jpg"/>
+    <meta property="og:site_name" content="UTD Student Government" />
+    <meta property="og:title" content="University Budget Breakdown" />
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="article" />
+    <meta property="article:modified_time" content="article" />
+    <meta property="article:author" content="UT Dallas Student Government" />
+
+    <meta
+      property="og:description"
+      content="Learn how your tuition funds university departments and the services  that you use, and see clear, accessible information on the university's finances."
+    />
+    <meta
+      property="og:url"
+      content="https://utdal.github.io/sg-budget-breakdown"
+    />
+    <meta property="og:image" content="/sg-budget-breakdown/assets/img/sg-logo.jpg" />
+
+    <link rel="stylesheet" href="/sg-budget-breakdown/assets/css/main.css" />
+
+    
+    <script src="/sg-budget-breakdown/assets/js/main.js"></script>
+</head>
+
+  <body class="bg-slate-100">
+    
+    <nav class="sticky top-0 flex flex-wrap bg-slate-700 text-white">
+    <div class="w-full md:flex-1 md:w-auto flex justify-between">
+        <a href="/sg-budget-breakdown/" class="flex-1 p-4 hover:bg-slate-900 focus:bg-slate-900 font-bold text-lg transition">
+        UTD Budget Breakdown
+        </a>
+        <div class="p-2">
+            <button type="button" class="block md:hidden p-2 rounded-lg hover:bg-slate-900 focus:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-gray-200" id="navbar-open" aria-controls="navbar-open" aria-expanded="false" onClick="open_nav()">
+                <span class="sr-only">Open menu</span>
+                <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+            </button>
+            <button type="button" class="hidden p-2 rounded-lg hover:bg-slate-900 focus:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-gray-200 text-[2rem]" id="navbar-close" aria-controls="navbar-close" aria-expanded="false" onClick="close_nav()">
+                <span class="sr-only">Close menu</span>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6" aria-hidden="false">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div class="hidden md:block p-4 pt-0 md:p-4" id="navbar-nav">
+        <ul class="flex flex-col md:flex-row">
+        <li>
+            <a href="/sg-budget-breakdown/findings" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            Findings
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/faq" class=" active m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            FAQ
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/search" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            Search
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/team" class="m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition" >
+            People
+            </a>
+        </li>
+        <li>
+            <a href="/sg-budget-breakdown/test" class=" m-2 px-3 py-2 hover:bg-slate-900 focus:bg-slate-900 rounded-md font-bold text-lg transition">
+            Test
+            </a>
+        </li>
+        </ul>
+    </div>
+</nav>
+
+    <section id="overview">
+  <div class="mx-auto max-w-4xl p-4 lg:p-6">
+    <h1 class="text-3xl font-bold my-4">Frequently asked questions</h1>
+    <p class="text-sm pb-2"><em>Answers to these questions are based on linked sources or interviews with members of
+        the UTD Office of Finance and Budget.</em></p>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">How much do university employees earn?</h2>
+          <span class="mt-1">
+            <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+            <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+          </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        Faculty and staff salaries for university employees throughout the state of Texas can be found at
+        <a class="text-blue-600 hover:underline transition"
+          href="https://texascollegesalaries.com/">texascollegesalaries.com</a>.
+        According to the <a class="text-blue-600 hover:underline transition"
+          href="https://studentemployment.utdallas.edu/students/compensation/">
+          Office of Student Employment</a>, the average hourly wage for student assistants in fiscal year 2022 was
+        $11.64/hr.
+      </p>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">What determines admin versus staff in the data?</h2>
+        <span class="mt-1">
+          <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+          <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+        </span>
+      </div>
+      <span id="faq-contents" class="hidden">
+        <p>Specific groupings are more nuanced, but the general rule is as follows:</p>
+        <ul class="list-disc list-inside">
+          <li><em>Faculty:</em> instructional- and research- focused employees, not including assistants.</li>
+          <li><em>Staff:</em>
+            <ul class="list-disc list-inside pl-4">
+              <li><em>Administrators:</em> heads of departments or specialized personnel with advanced degrees</li>
+              <li><em>Student workers:</em> students enrolled at the university employed as student/teaching/research
+                assistants</li>
+              <li><em>Classified:</em> all other staff</li>
+            </ul>
+          </li>
+        </ul>
+      </span>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="text-1xl font-semibold my-2">What are the $10 million in "investment earnings"?</h2>
+        <span class="mt-1">
+          <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+          <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+        </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        First, it is important to note that all revenues listed in the operating budget are estimated.
+        Operating budgets are plans for the future that are created far in advance and approved by various groups.
+        Because students generally pay tuition prior to the university incurring the full costs for that semester, the
+        university is receiving advance payment
+        for its services. Parts of this advance payment are invested with
+        <a class="text-blue-600 hover:underline transition" href="https://www.utimco.org/">UTIMCO</a>, the University
+        of Texas/Texas A&M Investment Management Company. This group then invests the money in short- and medium-term
+        funds. The interest and capital gains from these investments are then used as reserve funds for unbudgeted,
+        unforeseen expenses.
+      </p>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">What are the "adjustments" listed for various parts of the budget?</h2>
+        <span class="mt-1">
+          <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+          <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+        </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        Adjustments are an accounting representation used to remove duplication from the budget. A simple example are
+        tuition discounts. The university pays for various
+        scholarships. These scholarships are listed as expenses, and the tuition paid by the scholarship is listed as
+        a revenue. Adjustments remove this duplication.
+      </p>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">If the operating budget is an estimate, how accurate is it? </h2>
+        <span class="mt-1">
+          <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+          <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+        </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        The operating budget is generally within 1 to 4 percent of the true revenue and expenses.
+      </p>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">How does the university borrow money? </h2>
+        <span class="mt-1">
+          <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+          <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+        </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        All borrowing by the university is done in conjunction with the University of Texas System. University
+        officials send their debt
+        requests to the system, which must be approved by the <a class="text-blue-600 hover:underline transition"
+          href="https://www.utsystem.edu/offices/board-regents">Board of Regents</a>. The requests from all member
+        institutions within the system are bundled to give the system improved bargaining power
+        when obtaining the requested investments. The debt service payments on these loans are generally paid from
+        reserve funds that are collected form
+        yearly revenues.
+      </p>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">Where can endowment money be spent?</h2>
+        <span class="mt-1">
+          <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+          <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+        </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        The donor of an endowment determines its intended purpose and sets limitations on its spending. Current
+        endowments can be found at the
+        <a class="text-blue-600 hover:underline transition"
+          href="https://development.utdallas.edu/support/endowments/current-endowments/">Office of Development and
+          Alumni Relations website</a>. Generally, the prinicpal amount of the endowment is left invested, through
+        UTIMCO, while
+        earnings from the investment are utilized. In many cases, endowment balancing reinvests a small portion of the
+        earnings to ensure the principal
+        is resistant to the effects of inflation.
+      </p>
+    </div>
+
+    <div id="faq-item" class="border-2 rounded-md p-2">
+      <div class="grid grid-cols-2">
+        <h2 class="font-semibold my-2">How does the university fund auxiliary services? </h2>
+          <span class="mt-1">
+            <span onClick="open_faq(this)" id="faq-open" class="float-right mr-2 text-xl">+</span>
+            <span onClick="close_faq(this)" id="faq-close" class="hidden float-right mr-2 text-xl">&times;</span>
+          </span>
+      </div>
+      <p id="faq-contents" class="hidden">
+        In general, any service that is outside the core mission of the university&mdash;education for degree-seeking
+        students&mdash;should be self-suppporting.
+        This means that these services should bring in enough revenue to sustain their activities. This applies to
+        dining, housing, and executive education.
+      </p>
+    </div>
+  </div>
+</section>
+
+    <footer class="py-8 px-4 lg:px-8 bg-secondary text-white">
+    <div class="max-w-6xl mx-auto space-y-8 lg:grid lg:grid-cols-4 lg:space-y-0">
+      <div class="lg:col-span-2">
+        <div class="text-xl font-medium">A project by the UT Dallas Student Government</div>
+        <div class="text-2xl font-semibold"></div>
+        <div>
+          Student Union 2nd Floor, <a class="underline" href="https://map.concept3d.com/?id=1772#!m/545136?ce/52325?ct/42147?mc/32.986385,-96.74868?z/19?lvl/2">SU 2.401</a>
+          <div>
+            Monday-Friday, 8:30am - 5:00pm
+          </div>
+          <div>
+            972-883-2284
+          </div>
+          <a class="underline" href="mailto:sg@utdallas.edu?subject=UT Dallas Budget Breakdown">
+            sg@utdallas.edu
+          </a>
+        </div>
+      </div>
+      <div>
+        <div class="text-xl font-medium">University Links</div>
+        <ul>
+          <li class="pt-1 text-lg">
+            <a class="underline" href="https://bursar.utdallas.edu/">
+              Bursar Office
+            </a>
+          </li>
+          <li class="pt-1 text-lg">
+            <a class="underline" href="https://finance.utdallas.edu/">
+              Office of Budget and Finance
+            </a>
+          </li>
+        </div>
+      <div>
+        <div class="text-xl font-medium">Other Useful Links</div>
+        <ul>
+          <li class="pt-1 text-lg">
+            See our website at
+            <a class="underline" href="https://sg.utdallas.edu">
+              sg.utdallas.edu
+            </a>
+          </li>
+          <li class="pt-1 text-lg">
+            See the project on
+            <a class="underline" href="https://github.com/utdal/sg-budget-breakdown">
+              GitHub
+            </a>
+          </li>
+          <li class="pt-1 text-lg">
+            Connect with us on
+            <a class="underline" href="https://instagram.com/utdsg">
+              Instagram
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+</footer>
+
+    
+  </body>
+</html>
